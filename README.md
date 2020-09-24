@@ -1,2 +1,2 @@
 # Teaching
-Collection of educational material used in different contexts and for various teaching sessions.
+Collection of educational materials used in different contexts and for various teaching sessions.
